@@ -13,7 +13,7 @@
     $scope.rows = 5;
     $scope.size = 80; //px
     $scope.file = null;
-    $scope.image = '/img/fox.png';
+    $scope.image = 'img/fox.png';
     $scope.cells = [];
     $scope.shuffleDisabled = false;
     $scope.wrapperStyle = null;
